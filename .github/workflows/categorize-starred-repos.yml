@@ -26,7 +26,7 @@ jobs:
       
       - name: Fetch and categorize starred repos
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STARRED_REPOS_TOKEN }}
           GITHUB_ACTOR: ${{ github.actor }}
         run: python scripts/categorize.py
       
