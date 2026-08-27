@@ -1,0 +1,443 @@
+{
+  "last_updated": "2026-08-27T22:03:35.424765+00:00",
+  "total_repos": 28,
+  "categories": {
+    "Other": [
+      {
+        "name": "Promptgpt",
+        "full_name": "howard9192/Promptgpt",
+        "url": "https://github.com/howard9192/Promptgpt",
+        "summary": "PromptGPT is an opensource framework that enables users to automatically generate high-quality prompts with zero installations, coding necessary or technical knowledge. Promptgpt follows industry best practices for prompt engineering and generates prompts within a matter of seconds. ",
+        "stars": 123,
+        "language": "Not specified",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "rss-reader-app",
+        "full_name": "erfan138057/rss-reader-app",
+        "url": "https://github.com/erfan138057/rss-reader-app",
+        "summary": "Modern Qt RSS reader for Windows & Linux — Reader Mode, local-first privacy, OPML, advanced search, bookmarks, and in-app direct video playback.",
+        "stars": 13,
+        "language": "Python",
+        "topics": [
+          "desktop-app",
+          "dns-over-https",
+          "feed-reader",
+          "linux",
+          "open-source",
+          "podcast-player",
+          "privacy-tools",
+          "pyside6",
+          "python",
+          "qt",
+          "rss",
+          "rss-aggregator",
+          "rss-reader",
+          "video-player",
+          "windows"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "vscode-copilot-rtl",
+        "full_name": "NabiKAZ/vscode-copilot-rtl",
+        "url": "https://github.com/NabiKAZ/vscode-copilot-rtl",
+        "summary": "This script adds RTL support to Copilot Chat by applying RTL direction, Vazir font, and custom font sizes, while keeping code blocks and result editors LTR for correct formatting. راست چین کردن هوش مصنوعی کوپایلوت در وی‌اس‌کد",
+        "stars": 34,
+        "language": "JavaScript",
+        "topics": [
+          "ai",
+          "chatbot",
+          "copilot",
+          "right-to-left",
+          "rtl",
+          "vscode"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "rawgraphs-app",
+        "full_name": "rawgraphs/rawgraphs-app",
+        "url": "https://github.com/rawgraphs/rawgraphs-app",
+        "summary": "A web interface to create custom vector-based visualizations on top of RAWGraphs core",
+        "stars": 9026,
+        "language": "JavaScript",
+        "topics": [
+          "d3js",
+          "data",
+          "data-visualization",
+          "ddj",
+          "design",
+          "rawgraphs",
+          "svg",
+          "vector-graphics",
+          "visualization"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "impeccable",
+        "full_name": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "summary": "The design language that makes your AI harness better at design.",
+        "stars": 63286,
+        "language": "JavaScript",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "tehgo",
+        "full_name": "taymakz/tehgo",
+        "url": "https://github.com/taymakz/tehgo",
+        "summary": "No description",
+        "stars": 65,
+        "language": "TypeScript",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "MobileDevRoadmap",
+        "full_name": "33Alireza/MobileDevRoadmap",
+        "url": "https://github.com/33Alireza/MobileDevRoadmap",
+        "summary": "an open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS.",
+        "stars": 19,
+        "language": "Not specified",
+        "topics": [
+          "android",
+          "cloud-computing",
+          "compose-multiplatform",
+          "cross-platform",
+          "dart",
+          "flutter",
+          "ios",
+          "jetpack-compose",
+          "kotlin",
+          "kotlin-multiplatform",
+          "mobile",
+          "mobile-development",
+          "open-source",
+          "prtfolio",
+          "roadmap",
+          "software-engineering",
+          "swift",
+          "swiftui",
+          "uikit",
+          "version-control"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "marketingskills",
+        "full_name": "coreyhaines31/marketingskills",
+        "url": "https://github.com/coreyhaines31/marketingskills",
+        "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "stars": 45872,
+        "language": "JavaScript",
+        "topics": [
+          "claude",
+          "codex",
+          "marketing"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "icons",
+        "full_name": "persianlabs/icons",
+        "url": "https://github.com/persianlabs/icons",
+        "summary": "Iranian logos, ready to ship.",
+        "stars": 176,
+        "language": "TypeScript",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "ui",
+        "full_name": "persianlabs/ui",
+        "url": "https://github.com/persianlabs/ui",
+        "summary": "A copy-paste component library, RTL-first for Persian interfaces.",
+        "stars": 113,
+        "language": "TypeScript",
+        "topics": [
+          "motion",
+          "nextjs",
+          "persian",
+          "persian-ui",
+          "shadcn-ui",
+          "tailwidcss",
+          "ui",
+          "ui-components",
+          "ui-design"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "browser-use",
+        "full_name": "browser-use/browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "stars": 111443,
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser-automation",
+          "browser-use",
+          "llm",
+          "playwright",
+          "python"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "ponytail",
+        "full_name": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 113950,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "yagni"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "persian-address-parser",
+        "full_name": "rezadev8/persian-address-parser",
+        "url": "https://github.com/rezadev8/persian-address-parser",
+        "summary": "No description",
+        "stars": 30,
+        "language": "TypeScript",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "awesome-gpt-image-2",
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "stars": 22944,
+        "language": "JavaScript",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "Horizon",
+        "full_name": "Thysrael/Horizon",
+        "url": "https://github.com/Thysrael/Horizon",
+        "summary": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+        "stars": 9053,
+        "language": "Python",
+        "topics": [
+          "aggregator",
+          "feishu-bot",
+          "llm",
+          "mcp",
+          "news",
+          "openclaw",
+          "python",
+          "webhook"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "fixing-smartass-opus-5",
+        "full_name": "disler/fixing-smartass-opus-5",
+        "url": "https://github.com/disler/fixing-smartass-opus-5",
+        "summary": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner.",
+        "stars": 273,
+        "language": "Just",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "manim",
+        "full_name": "3b1b/manim",
+        "url": "https://github.com/3b1b/manim",
+        "summary": "Animation engine for explanatory math videos",
+        "stars": 92120,
+        "language": "Python",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "llm-for-humans",
+        "full_name": "3lf/llm-for-humans",
+        "url": "https://github.com/3lf/llm-for-humans",
+        "summary": "به زبون آدمیزاد LLM آموزش / Teaching LLM in Persian",
+        "stars": 366,
+        "language": "JavaScript",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "prompts",
+        "full_name": "thatssoheil/prompts",
+        "url": "https://github.com/thatssoheil/prompts",
+        "summary": "Copy-paste AI prompts - no terminal, no install. Also in Farsi (فارسی).",
+        "stars": 19,
+        "language": "Not specified",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "claude-cookbooks",
+        "full_name": "anthropics/claude-cookbooks",
+        "url": "https://github.com/anthropics/claude-cookbooks",
+        "summary": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": 52205,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "hallmark",
+        "full_name": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "stars": 27303,
+        "language": "CSS",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "IntroAI",
+        "full_name": "SharifiZarchi/IntroAI",
+        "url": "https://github.com/SharifiZarchi/IntroAI",
+        "summary": "اسلایدها و کدهای دوره‌ی ورود به دنیای هوش‌مصنوعی",
+        "stars": 180,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "skills",
+        "full_name": "emilkowalski/skills",
+        "url": "https://github.com/emilkowalski/skills",
+        "summary": "Skills for Designers and Engineers.",
+        "stars": 33031,
+        "language": "Markdown",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "nemotron-voice-agent",
+        "full_name": "NVIDIA-AI-Blueprints/nemotron-voice-agent",
+        "url": "https://github.com/NVIDIA-AI-Blueprints/nemotron-voice-agent",
+        "summary": "Reference implementation of an end-to-end voice agent built using the NVIDIA Nemotron models",
+        "stars": 221,
+        "language": "Python",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "rendercv",
+        "full_name": "rendercv/rendercv",
+        "url": "https://github.com/rendercv/rendercv",
+        "summary": "Resume builder for academics and engineers",
+        "stars": 17441,
+        "language": "Python",
+        "topics": [
+          "cv",
+          "cv-builder",
+          "cv-generator",
+          "cv-template",
+          "python",
+          "resume",
+          "resume-builder",
+          "resume-generator",
+          "resume-template",
+          "typst"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "CCloud",
+        "full_name": "code3-dev/CCloud",
+        "url": "https://github.com/code3-dev/CCloud",
+        "summary": "Android movie streaming application — completely free and ad-free.",
+        "stars": 462,
+        "language": "Kotlin",
+        "topics": [],
+        "category": "Other"
+      },
+      {
+        "name": "nimaaksoy.com",
+        "full_name": "nimaaksoy/nimaaksoy.com",
+        "url": "https://github.com/nimaaksoy/nimaaksoy.com",
+        "summary": "Curated AI and open-source projects, Chrome extensions, and useful web experiments",
+        "stars": 6,
+        "language": "TypeScript",
+        "topics": [
+          "ai-tools",
+          "chrome-extension",
+          "curated-resources",
+          "developer-tools",
+          "experiments",
+          "nextjs",
+          "open-source",
+          "personal-website",
+          "typescript",
+          "web-tools"
+        ],
+        "category": "Other"
+      },
+      {
+        "name": "ai-engineering-from-scratch",
+        "full_name": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "summary": "Learn it. Build it. Ship it for others.",
+        "stars": 50126,
+        "language": "Python",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "computer-vision",
+          "course",
+          "deep-learning",
+          "from-scratch",
+          "generative-ai",
+          "llm",
+          "machine-learning",
+          "mcp",
+          "nlp",
+          "python",
+          "reinforcement-learning",
+          "rust",
+          "swarm-intelligence",
+          "transformers",
+          "tutorial",
+          "typescript"
+        ],
+        "category": "Other"
+      }
+    ]
+  }
+}
