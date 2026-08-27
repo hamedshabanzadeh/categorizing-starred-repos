@@ -2,34 +2,40 @@ name: Categorize Starred Repos
 
 on:
   schedule:
-    # هر روز ساعت 12:00 شب (UTC) اجرا شه
-    - cron: '0 12 * * *'
+    # هر روز ساعت 00:00 UTC اجرا شود
+    - cron: '0 0 * * *'
   workflow_dispatch:  # برای تست دستی
+
+permissions:
+  contents: write   # برای commit/push به همین ریپو
+  models: read       # برای فراخوانی GitHub Models (AI)
 
 jobs:
   categorize:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pyyaml
-      
+          pip install requests
+
       - name: Fetch and categorize starred repos
         env:
+          # همون توکن قبلی که برای خوندن starred repos ساخته بودی
           GITHUB_TOKEN: ${{ secrets.STARRED_REPOS_TOKEN }}
-          GITHUB_ACTOR: ${{ github.actor }}
+          # توکن پیش‌فرض خود اکشن، فقط برای فراخوانی GitHub Models لازم است
+          MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/categorize.py
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
