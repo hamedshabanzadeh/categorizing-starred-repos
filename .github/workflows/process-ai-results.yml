@@ -1,0 +1,42 @@
+name: Process AI Analysis Results
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/ai_output.json'
+  workflow_dispatch:  # برای تست دستی
+
+permissions:
+  contents: write
+
+jobs:
+  merge-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Merge AI results into catalog
+        run: python scripts/merge_catalog.py
+
+      - name: Rebuild README from catalog
+        run: python scripts/build_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: merge AI analysis results into catalog - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
