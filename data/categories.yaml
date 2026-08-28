@@ -1,0 +1,53 @@
+# ساختار دسته‌بندی‌های پروژه
+# این فایل هنگام تحلیل ریپوهای جدید به هوش مصنوعی داده می‌شود تا دسته‌بندی‌ها
+# در طول زمان یکدست بمانند. مدل باید تا حد امکان از همین دسته‌ها استفاده کند
+# و فقط در صورت نیاز واقعی، دسته‌ی جدید را به‌صورت پیشنهاد (suggested_new_category) مطرح کند.
+# افزودن یا تغییر دسته‌ها همیشه باید دستی و توسط خود کاربر انجام شود.
+
+categories:
+  - name: AI & LLM Tools
+    subcategories:
+      - AI Agents
+      - Prompt Engineering
+      - LLM Frameworks
+      - AI Coding Assistants
+
+  - name: Developer Tools
+    subcategories:
+      - CLI Tools
+      - Automation
+      - DevOps & CI/CD
+
+  - name: Web & Frontend
+    subcategories:
+      - UI Libraries
+      - Frameworks
+      - Browser Extensions
+
+  - name: Mobile Development
+    subcategories:
+      - Android
+      - iOS
+      - Cross-platform
+
+  - name: Data & Visualization
+    subcategories:
+      - Data Visualization
+      - Data Processing
+
+  - name: Design & UI/UX
+    subcategories: []
+
+  - name: Learning & Educational
+    subcategories:
+      - Courses
+      - Tutorials
+      - Roadmaps
+
+  - name: Persian / Farsi Tools
+    subcategories: []
+
+  - name: Productivity & Utilities
+    subcategories:
+      - Resume/CV Tools
+      - RSS/News Readers
