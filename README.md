@@ -33,21 +33,14 @@ As the number of starred repositories grows, finding a specific project or remem
 ```
 GitHub Stars
      ↓
-fetch_stars.py  (runs daily via GitHub Actions)
+Fetch new starred repos
      ↓
-data/inbox.json          ← new, unanalyzed repos wait here
+AI-assisted categorization
      ↓
-[ You → Claude / ChatGPT ]   ← manual step, whenever you choose
+Merge into catalog
      ↓
-data/ai_output.json      ← AI's classification + description
-     ↓
-merge_catalog.py  (runs automatically on upload)
-     ↓
-data/catalog.json        ← permanent source of truth
-     ↓
-build_readme.py
-     ↓
-CATALOG.md  +  README.md stats block
+Generate CATALOG.md
+     
 ```
 
 **Why no AI API key is needed?**
