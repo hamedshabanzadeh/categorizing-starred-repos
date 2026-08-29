@@ -39,8 +39,7 @@ AI-assisted categorization
      ↓
 Merge into catalog
      ↓
-Generate CATALOG.md
-     
+Generate CATALOG.md  
 ```
 
 **Why no AI API key is needed?**
