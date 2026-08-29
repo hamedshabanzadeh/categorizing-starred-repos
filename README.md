@@ -45,7 +45,7 @@ Generate CATALOG.md
 The AI analysis step is done manually — you paste `inbox.json` + `categories.yaml`, along with the fixed instructions in [`docs/prompt-template.txt`](./docs/prompt-template.txt), into Claude or ChatGPT's normal chat interface, then save the model's JSON response as `data/ai_output.json` and upload it to the repo. The prompt template tells the model exactly what fields to return and how to handle uncertain cases. All the repetitive, mechanical work (fetching, merging, building) is fully automated via GitHub Actions.
 
 **چرا نیازی به API key هوش مصنوعی نیست؟**
-مرحله‌ی تحلیل هوش مصنوعی به‌صورت دستی انجام می‌شود — محتوای `inbox.json` و `categories.yaml` را به‌همراه دستورالعمل ثابت موجود در [`docs/prompt-template.txt`](./docs/prompt-template.txt) در پنجره‌ی چت عادی کلاد یا چت‌جی‌پی‌تی پیست می‌کنید، سپس پاسخ JSON مدل را با نام `ai_output.json` در پوشه‌ی `data` ذخیره و آپلود می‌کنید. این پرامپت دقیقاً مشخص می‌کند مدل چه فیلدهایی برگرداند و با موارد نامطمئن چطور رفتار کند. تمام کارهای تکراری و ماشینی (جمع‌آوری، ادغام، ساخت خروجی) کاملاً خودکار و توسط GitHub Actions انجام می‌شود.
+مرحله‌ی تحلیل هوش مصنوعی به‌صورت دستی انجام می‌شود — محتوای `inbox.json` و `categories.yaml` را به‌همراه دستورالعمل ثابت موجود در [`docs/prompt-template.txt`](./docs/prompt-template.txt) در پنجره‌ی چت عادی کلاد یا چت‌جی‌پی‌تی پیست می‌کنید، سپس پاسخ JSON مدل را با نام `ai_output.json` ذخیره و در پوشه‌ی `data` آپلود می‌کنید. این پرامپت دقیقاً مشخص می‌کند مدل چه فیلدهایی برگرداند و با موارد نامطمئن چطور رفتار کند. تمام کارهای تکراری و ماشینی (جمع‌آوری، ادغام، ساخت خروجی) کاملاً خودکار و توسط GitHub Actions انجام می‌شود.
 
 ---
 
