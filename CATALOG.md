@@ -3,7 +3,7 @@
 > این فایل به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود — دستی ویرایشش نکنید.
 > This file is auto-generated from `data/catalog.json` — do not edit manually.
 
-**آخرین به‌روزرسانی / Last updated:** 2026-08-29 17:05:09 UTC
+**آخرین به‌روزرسانی / Last updated:** 2026-08-29 22:10:25 UTC
 **تعداد کل ریپوها / Total repos:** 29
 
 ---
