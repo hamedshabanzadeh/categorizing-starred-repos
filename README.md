@@ -1,4 +1,4 @@
-# 🌟 Categorizing Starred Repos
+#  Categorizing Starred Repos
 
 An automated, AI-assisted system for organizing GitHub starred repositories into a categorized, searchable catalog — without requiring an AI API key.
 
@@ -6,7 +6,7 @@ An automated, AI-assisted system for organizing GitHub starred repositories into
 
 ---
 
-## 📊 Catalog Stats / آمار کاتالوگ
+##  Catalog Stats / آمار کاتالوگ
 
 <!-- CATALOG_STATS_START -->
 **Total repos / تعداد کل ریپوها:** 29  
@@ -18,7 +18,7 @@ An automated, AI-assisted system for organizing GitHub starred repositories into
 
 ---
 
-## 🧭 About / درباره‌ی پروژه
+##  About / درباره‌ی پروژه
 
 **English:**
 As the number of starred repositories grows, finding a specific project or remembering what it does becomes harder over time. This project automatically tracks newly starred repos, uses an AI model (Claude or ChatGPT — whichever you have access to, no API key needed) to classify and describe them, and maintains a permanent, structured catalog that scales to hundreds or thousands of repos.
@@ -28,7 +28,7 @@ As the number of starred repositories grows, finding a specific project or remem
 
 ---
 
-## ⚙️ How It Works / نحوه‌ی کار
+##  How It Works / نحوه‌ی کار
 
 ```
 GitHub Stars
@@ -58,7 +58,7 @@ The AI analysis step is done manually — you paste `inbox.json` + `categories.y
 
 ---
 
-## 📁 Project Structure / ساختار پروژه
+##  Project Structure / ساختار پروژه
 
 ```
 .
@@ -83,7 +83,7 @@ The AI analysis step is done manually — you paste `inbox.json` + `categories.y
 
 ---
 
-## 🚀 Using This For Your Own Stars / استفاده برای ریپوهای خودتان
+##  Using This For Your Own Stars / استفاده برای ریپوهای خودتان
 
 1. Fork this repository.
 2. Create a GitHub Personal Access Token with access to your starred repos, and add it as a repository secret named `STARRED_REPOS_TOKEN`.
@@ -101,6 +101,6 @@ The AI analysis step is done manually — you paste `inbox.json` + `categories.y
 
 ---
 
-## 📜 License / مجوز
+##  License / مجوز
 
 _(choose a license that fits your goals, e.g. MIT, and add a `LICENSE` file — این بخش را با مجوز انتخابی خودتان تکمیل کنید)_
