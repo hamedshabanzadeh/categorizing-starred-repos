@@ -1,6 +1,6 @@
 # 🌟 کاتالوگ ریپوهای استارشده
 
-**آخرین به‌روزرسانی:** 2026-08-29 11:29:01 UTC
+**آخرین به‌روزرسانی:** 2026-08-29 12:07:21 UTC
 **تعداد کل ریپوها:** 29
 
 این فهرست به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود.
@@ -9,15 +9,15 @@
 
 ## 📑 فهرست دسته‌ها
 
-- [AI & LLM Tools](#ai-&-llm-tools) (10 ریپو)
-- [Data & Visualization](#data-&-visualization) (2 ریپو)
-- [Design & UI/UX](#design-&-ui/ux) (1 ریپو)
+- [AI & LLM Tools](#ai--llm-tools) (10 ریپو)
+- [Data & Visualization](#data--visualization) (2 ریپو)
+- [Design & UI/UX](#design--uiux) (1 ریپو)
 - [Developer Tools](#developer-tools) (1 ریپو)
-- [Learning & Educational](#learning-&-educational) (5 ریپو)
+- [Learning & Educational](#learning--educational) (5 ریپو)
 - [Mobile Development](#mobile-development) (2 ریپو)
-- [Persian / Farsi Tools](#persian-/-farsi-tools) (3 ریپو)
-- [Productivity & Utilities](#productivity-&-utilities) (3 ریپو)
-- [Web & Frontend](#web-&-frontend) (2 ریپو)
+- [Persian / Farsi Tools](#persian--farsi-tools) (3 ریپو)
+- [Productivity & Utilities](#productivity--utilities) (3 ریپو)
+- [Web & Frontend](#web--frontend) (2 ریپو)
 
 ---
 
