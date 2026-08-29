@@ -50,10 +50,10 @@ build_readme.py
 CATALOG.md  +  README.md stats block
 ```
 
-**English — Why no AI API key is needed:**
+** — Why no AI API key is needed:**
 The AI analysis step is done manually — you paste `inbox.json` + `categories.yaml` into Claude or ChatGPT's normal chat interface, then upload the response back. All the repetitive, mechanical work (fetching, merging, building) is fully automated via GitHub Actions.
 
-**فارسی — چرا نیازی به API key هوش مصنوعی نیست:**
+** — چرا نیازی به API key هوش مصنوعی نیست:**
 مرحله‌ی تحلیل هوش مصنوعی به‌صورت دستی انجام می‌شود — محتوای `inbox.json` و `categories.yaml` را در پنجره‌ی چت عادی کلاد یا چت‌جی‌پی‌تی پیست می‌کنید و پاسخ را دوباره آپلود می‌کنید. تمام کارهای تکراری و ماشینی (جمع‌آوری، ادغام، ساخت خروجی) کاملاً خودکار و توسط GitHub Actions انجام می‌شود.
 
 ---
