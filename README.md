@@ -9,7 +9,10 @@ An automated, AI-assisted system for organizing GitHub starred repositories into
 ## 📊 Catalog Stats / آمار کاتالوگ
 
 <!-- CATALOG_STATS_START -->
-(به‌زودی پس از اولین اجرا این بخش به‌صورت خودکار پر می‌شود)
+**Total repos / تعداد کل ریپوها:** 29  
+**Needs review / نیازمند بررسی:** 0  
+**Last updated / آخرین به‌روزرسانی:** 2026-08-29 16:26:52 UTC  
+See the full list in [`CATALOG.md`](./CATALOG.md).
 <!-- CATALOG_STATS_END -->
 
 👉 See the full categorized list in [`CATALOG.md`](./CATALOG.md).
