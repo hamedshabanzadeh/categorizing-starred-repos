@@ -1,199 +1,296 @@
-# 🌟 Categorized Starred Repositories
+# 🌟 کاتالوگ ریپوهای استارشده
 
-**Last updated:** 2026-08-27 22:03:35 UTC
-**Total repositories:** 28
+**آخرین به‌روزرسانی:** 2026-08-29 11:29:01 UTC
+**تعداد کل ریپوها:** 29
 
-Automatically categorized by AI based on each project's actual purpose, topics, and language.
-
----
-
-## 📑 Table of Contents
-
-- [Other](#other) (28 repos)
+این فهرست به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود.
 
 ---
 
-## Other
+## 📑 فهرست دسته‌ها
 
-### [ponytail](https://github.com/DietrichGebert/ponytail)
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [AI & LLM Tools](#ai-&-llm-tools) (10 ریپو)
+- [Data & Visualization](#data-&-visualization) (2 ریپو)
+- [Design & UI/UX](#design-&-ui/ux) (1 ریپو)
+- [Developer Tools](#developer-tools) (1 ریپو)
+- [Learning & Educational](#learning-&-educational) (5 ریپو)
+- [Mobile Development](#mobile-development) (2 ریپو)
+- [Persian / Farsi Tools](#persian-/-farsi-tools) (3 ریپو)
+- [Productivity & Utilities](#productivity-&-utilities) (3 ریپو)
+- [Web & Frontend](#web-&-frontend) (2 ریپو)
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 113950
-- **Topics:** `agent-skills`, `ai-agents`, `claude`, `claude-code`, `claude-code-plugin`, `cursor-rules`, `developer-tools`, `llm`, `prompt-engineering`, `yagni`
+---
 
-### [browser-use](https://github.com/browser-use/browser-use)
-🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+## AI & LLM Tools
 
-- **Language:** Python
-- **Stars:** ⭐ 111443
-- **Topics:** `ai-agents`, `ai-tools`, `browser-automation`, `browser-use`, `llm`, `playwright`, `python`
+### AI Agents
 
-### [manim](https://github.com/3b1b/manim)
-Animation engine for explanatory math videos
+#### [browser-use/browser-use](https://github.com/browser-use/browser-use)
+Browser Use به ایجنت‌های مبتنی بر LLM امکان می‌دهد با صفحات وب تعامل داشته باشند و وظایف آنلاین را از طریق مرورگر به‌صورت خودکار انجام دهند.
 
-- **Language:** Python
-- **Stars:** ⭐ 92120
-- **Topics:** `3b1b-videos`, `animation`, `explanatory-math-videos`, `python`
+- **کاربرد:** فراهم‌کردن امکان کنترل و خودکارسازی مرورگر و وب‌سایت‌ها توسط ایجنت‌های هوش مصنوعی.
+- **زبان:** Python
+- **استار:** ⭐ 111573
+- **برچسب‌ها:** `ai-agents`, `browser-automation`, `llm`, `playwright`, `python`
 
-### [impeccable](https://github.com/pbakaus/impeccable)
-The design language that makes your AI harness better at design.
+#### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+Marketing Skills مجموعه‌ای از مهارت‌های آماده برای ایجنت‌های هوش مصنوعی است تا در کارهای بازاریابی، بهینه‌سازی نرخ تبدیل، سئو، تحلیل و رشد کسب‌وکار کمک کنند.
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 63286
+- **کاربرد:** افزودن مهارت‌های تخصصی بازاریابی مانند SEO، کپی‌رایتینگ، CRO و تحلیل به ایجنت‌های هوش مصنوعی.
+- **زبان:** JavaScript
+- **استار:** ⭐ 45985
+- **برچسب‌ها:** `ai-agents`, `marketing`, `seo`, `cro`, `copywriting`, `growth`
 
-### [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+#### [NVIDIA-AI-Blueprints/nemotron-voice-agent](https://github.com/NVIDIA-AI-Blueprints/nemotron-voice-agent)
+Nemotron Voice Agent یک نمونه کامل برای ساخت ایجنت صوتی است که تشخیص گفتار، مدل زبانی و تبدیل متن به گفتار را در یک پایپ‌لاین استریم و قابل قطع ترکیب می‌کند.
 
-- **Language:** Jupyter Notebook
-- **Stars:** ⭐ 52205
+- **کاربرد:** ارائه پیاده‌سازی مرجع یک ایجنت صوتی بلادرنگ با استفاده از مدل‌های NVIDIA Nemotron.
+- **زبان:** Python
+- **استار:** ⭐ 221
+- **برچسب‌ها:** `voice-agent`, `ai-agents`, `nemotron`, `asr`, `tts`, `llm`
 
-### [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-Learn it. Build it. Ship it for others.
+### AI Coding Assistants
 
-- **Language:** Python
-- **Stars:** ⭐ 50126
-- **Topics:** `agents`, `ai`, `ai-agents`, `ai-engineering`, `computer-vision`, `course`, `deep-learning`, `from-scratch`, `generative-ai`, `llm`, `machine-learning`, `mcp`, `nlp`, `python`, `reinforcement-learning`, `rust`, `swarm-intelligence`, `transformers`, `tutorial`, `typescript`
+#### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+Ponytail مجموعه‌ای از مهارت‌ها و قواعد برای ایجنت‌های کدنویسی است که آن‌ها را به پرهیز از پیچیدگی و نوشتن حداقل کد ضروری تشویق می‌کند.
 
-### [marketingskills](https://github.com/coreyhaines31/marketingskills)
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- **کاربرد:** هدایت ایجنت‌های کدنویسی به سمت راه‌حل‌های ساده‌تر و کم‌حجم‌تر بر اساس اصول مهندسی نرم‌افزار.
+- **زبان:** JavaScript
+- **استار:** ⭐ 115276
+- **برچسب‌ها:** `ai-agents`, `coding-agents`, `claude-code`, `prompt-engineering`, `yagni`
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 45872
-- **Topics:** `claude`, `codex`, `marketing`
+#### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+Impeccable مجموعه‌ای از مهارت‌ها، دستورات و قوانین تشخیص طراحی است که به ایجنت‌های کدنویسی کمک می‌کند رابط‌های کاربری حرفه‌ای‌تر و کمتر کلیشه‌ای تولید کنند.
 
-### [skills](https://github.com/emilkowalski/skills)
-Skills for Designers and Engineers.
+- **کاربرد:** ارائه دستورالعمل‌ها و ابزارهای طراحی برای بهبود رابط‌های کاربری تولیدشده توسط ایجنت‌های کدنویسی هوش مصنوعی.
+- **زبان:** JavaScript
+- **استار:** ⭐ 63594
+- **برچسب‌ها:** `ai-coding`, `frontend-design`, `design`, `agents`, `ui`
 
-- **Language:** Markdown
-- **Stars:** ⭐ 33031
+#### [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+Hallmark یک مهارت طراحی برای Claude Code، Cursor و Codex است که با مجموعه‌ای از قوانین و آزمون‌های طراحی، خروجی رابط کاربری ایجنت‌ها را از الگوهای تکراری و مصنوعی دور می‌کند.
 
-### [hallmark](https://github.com/Nutlope/hallmark)
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- **کاربرد:** هدایت ایجنت‌های کدنویسی برای ساخت رابط‌های کاربری متنوع و حرفه‌ای و جلوگیری از ظاهر کلیشه‌ای محتوای تولیدشده با AI.
+- **زبان:** CSS
+- **استار:** ⭐ 27426
+- **برچسب‌ها:** `ai-coding`, `ui-design`, `claude-code`, `cursor`, `codex`, `design-skill`
 
-- **Language:** CSS
-- **Stars:** ⭐ 27303
+### Prompt Engineering
 
-### [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+#### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+این پروژه صدها نمونه مهندسی معکوس‌شده و مجموعه‌ای از قالب‌ها و مهارت‌های آماده برای طراحی پرامپت‌های حرفه‌ای تولید تصویر ارائه می‌دهد.
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 22944
-- **Topics:** `agents`, `ai-image-generation`, `chatgpt`, `dsh-plugin`, `gpt-image-2`, `image-prompts`, `prompt-as-code`, `prompt-engineering`, `skills`, `workflow-automation`
+- **کاربرد:** ارائه موتور و کتابخانه‌ای از پرامپت‌ها و قالب‌های حرفه‌ای برای تولید تصویر با GPT-Image.
+- **زبان:** JavaScript
+- **استار:** ⭐ 24202
+- **برچسب‌ها:** `gpt-image`, `image-generation`, `prompt-engineering`, `prompt-as-code`, `ai`
 
-### [rendercv](https://github.com/rendercv/rendercv)
-Resume builder for academics and engineers
+#### [disler/fixing-smartass-opus-5](https://github.com/disler/fixing-smartass-opus-5)
+این پروژه نشان می‌دهد چگونه با یک سیستم‌پرامپت می‌توان پاسخ‌های Opus 5 را کوتاه‌تر، دقیق‌تر و مناسب‌تر برای همکاری با مهندسان نرم‌افزار کرد.
 
-- **Language:** Python
-- **Stars:** ⭐ 17441
-- **Topics:** `cv`, `cv-builder`, `cv-generator`, `cv-template`, `python`, `resume`, `resume-builder`, `resume-generator`, `resume-template`, `typst`
+- **کاربرد:** بهبود رفتار مدل Opus 5 برای کار مهندسی نرم‌افزار از طریق یک سیستم‌پرامپت تخصصی.
+- **زبان:** Just
+- **استار:** ⭐ 279
+- **برچسب‌ها:** `system-prompt`, `prompt-engineering`, `opus`, `claude`, `coding-agents`
 
-### [Horizon](https://github.com/Thysrael/Horizon)
-📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+#### [howard9192/Promptgpt](https://github.com/howard9192/Promptgpt)
+PromptGPT چارچوبی متن‌باز برای ساخت سریع پرامپت‌های بهینه است و به کاربران غیر فنی نیز امکان می‌دهد از روش‌های مهندسی پرامپت استفاده کنند.
 
-- **Language:** Python
-- **Stars:** ⭐ 9053
-- **Topics:** `aggregator`, `feishu-bot`, `llm`, `mcp`, `news`, `openclaw`, `python`, `webhook`
+- **کاربرد:** تولید خودکار پرامپت‌های باکیفیت بر اساس اصول مهندسی پرامپت بدون نیاز به برنامه‌نویسی.
+- **زبان:** Not specified
+- **استار:** ⭐ 123
+- **برچسب‌ها:** `prompt-engineering`, `prompts`, `gpt`, `ai`
 
-### [rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app)
-A web interface to create custom vector-based visualizations on top of RAWGraphs core
+#### [thatssoheil/prompts](https://github.com/thatssoheil/prompts)
+این ریپو مجموعه‌ای رو‌به‌رشد از پرامپت‌های آماده است که بدون نصب ابزار یا استفاده از ترمینال می‌توان آن‌ها را مستقیماً در چت‌بات‌های هوش مصنوعی کپی و استفاده کرد.
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 9026
-- **Topics:** `d3js`, `data`, `data-visualization`, `ddj`, `design`, `rawgraphs`, `svg`, `vector-graphics`, `visualization`
+- **کاربرد:** ارائه مجموعه‌ای از پرامپت‌های آماده انگلیسی و فارسی برای استفاده مستقیم در ابزارهای هوش مصنوعی.
+- **زبان:** Not specified
+- **استار:** ⭐ 19
+- **برچسب‌ها:** `prompts`, `prompt-engineering`, `persian`, `ai`, `copy-paste`
 
-### [CCloud](https://github.com/code3-dev/CCloud)
-Android movie streaming application — completely free and ad-free.
+## Data & Visualization
 
-- **Language:** Kotlin
-- **Stars:** ⭐ 462
+### Data Visualization
 
-### [llm-for-humans](https://github.com/3lf/llm-for-humans)
-به زبون آدمیزاد LLM آموزش / Teaching LLM in Persian
+#### [3b1b/manim](https://github.com/3b1b/manim)
+Manim موتور انیمیشن‌سازی مبتنی بر Python است که برای تولید انیمیشن‌های دقیق، به‌ویژه ویدئوهای توضیحی ریاضی، طراحی شده است.
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 366
+- **کاربرد:** ساخت انیمیشن‌های دقیق و برنامه‌نویسی‌شده برای توضیح مفاهیم ریاضی و آموزشی.
+- **زبان:** Python
+- **استار:** ⭐ 92151
+- **برچسب‌ها:** `animation`, `math`, `visualization`, `python`, `education`
 
-### [fixing-smartass-opus-5](https://github.com/disler/fixing-smartass-opus-5)
-Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner.
+#### [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app)
+RAWGraphs ابزاری متن‌باز برای تبدیل داده‌های جدولی و فایل‌های صفحه‌گسترده به نمودارها و مصورسازی‌های مبتنی بر SVG است که امکان ویرایش بیشتر در نرم‌افزارهای گرافیکی را نیز فراهم می‌کند.
 
-- **Language:** Just
-- **Stars:** ⭐ 273
+- **کاربرد:** ساخت مصورسازی‌های برداری سفارشی از داده‌های جدولی از طریق یک رابط تحت وب.
+- **زبان:** JavaScript
+- **استار:** ⭐ 9026
+- **برچسب‌ها:** `data-visualization`, `charts`, `svg`, `d3`, `data`
 
-### [nemotron-voice-agent](https://github.com/NVIDIA-AI-Blueprints/nemotron-voice-agent)
-Reference implementation of an end-to-end voice agent built using the NVIDIA Nemotron models
+## Design & UI/UX
 
-- **Language:** Python
-- **Stars:** ⭐ 221
+#### [emilkowalski/skills](https://github.com/emilkowalski/skills)
+این مجموعه مهارت‌هایی مبتنی بر تجربه طراحی و مهندسی رابط کاربری ارائه می‌کند تا تصمیم‌گیری درباره طراحی، انیمیشن و جزئیات UI سریع‌تر و دقیق‌تر شود.
 
-### [IntroAI](https://github.com/SharifiZarchi/IntroAI)
-اسلایدها و کدهای دوره‌ی ورود به دنیای هوش‌مصنوعی
+- **کاربرد:** ارائه مهارت‌ها و راهنماهای تخصصی برای کمک به طراحان و مهندسان در ساخت رابط‌های کاربری بهتر.
+- **زبان:** Markdown
+- **استار:** ⭐ 33245
+- **برچسب‌ها:** `ui`, `ux`, `design`, `animation`, `frontend`, `skills`
 
-- **Language:** Jupyter Notebook
-- **Stars:** ⭐ 180
+## Developer Tools
 
-### [icons](https://github.com/persianlabs/icons)
-Iranian logos, ready to ship.
+#### [boffti/stardash](https://github.com/boffti/stardash)
+StarDash ریپوهای ستاره‌دار گیتهاب را به یک داشبورد قابل جستجو و سازمان‌دهی تبدیل می‌کند و برای کمک به کشف و مشارکت در پروژه‌ها از قابلیت‌های هوش مصنوعی بهره می‌برد.
 
-- **Language:** TypeScript
-- **Stars:** ⭐ 176
+- **کاربرد:** مدیریت، جستجو و سازمان‌دهی ریپوهای ستاره‌دار گیتهاب در یک فضای کاری مجهز به قابلیت‌های هوش مصنوعی.
+- **زبان:** TypeScript
+- **استار:** ⭐ 10
+- **برچسب‌ها:** `github-stars`, `developer-tools`, `ai`, `dashboard`, `nextjs`
 
-### [Promptgpt](https://github.com/howard9192/Promptgpt)
-PromptGPT is an opensource framework that enables users to automatically generate high-quality prompts with zero installations, coding necessary or technical knowledge. Promptgpt follows industry best practices for prompt engineering and generates prompts within a matter of seconds. 
+## Learning & Educational
 
-- **Language:** Not specified
-- **Stars:** ⭐ 123
+### Courses
 
-### [ui](https://github.com/persianlabs/ui)
-A copy-paste component library, RTL-first for Persian interfaces.
+#### [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+AI Engineering from Scratch یک منبع آموزشی جامع و پروژه‌محور برای یادگیری موضوعاتی مانند LLM، ایجنت‌ها، یادگیری ماشین، بینایی ماشین، NLP و MCP از پایه است.
 
-- **Language:** TypeScript
-- **Stars:** ⭐ 113
-- **Topics:** `motion`, `nextjs`, `persian`, `persian-ui`, `shadcn-ui`, `tailwidcss`, `ui`, `ui-components`, `ui-design`
+- **کاربرد:** آموزش عملی مهندسی هوش مصنوعی از مبانی تا ساخت و انتشار سیستم‌های پیشرفته AI.
+- **زبان:** Python
+- **استار:** ⭐ 50594
+- **برچسب‌ها:** `ai-engineering`, `llm`, `ai-agents`, `machine-learning`, `course`, `tutorial`
 
-### [tehgo](https://github.com/taymakz/tehgo)
-No description
+#### [3lf/llm-for-humans](https://github.com/3lf/llm-for-humans)
+LLM for Humans یک منبع آموزشی فارسی است که مفاهیم مرتبط با مدل‌های زبانی بزرگ را با زبانی قابل‌فهم آموزش می‌دهد و نسخه کتاب نیز ارائه می‌کند.
 
-- **Language:** TypeScript
-- **Stars:** ⭐ 65
+- **کاربرد:** آموزش مفاهیم مدل‌های زبانی بزرگ به زبان فارسی و با بیان ساده.
+- **زبان:** JavaScript
+- **استار:** ⭐ 368
+- **برچسب‌ها:** `llm`, `persian`, `education`, `ai`, `book`
 
-### [vscode-copilot-rtl](https://github.com/NabiKAZ/vscode-copilot-rtl)
-This script adds RTL support to Copilot Chat by applying RTL direction, Vazir font, and custom font sizes, while keeping code blocks and result editors LTR for correct formatting. راست چین کردن هوش مصنوعی کوپایلوت در وی‌اس‌کد
+#### [SharifiZarchi/IntroAI](https://github.com/SharifiZarchi/IntroAI)
+IntroAI شامل اسلایدها، نوت‌بوک‌ها و کدهای یک دوره عمومی فارسی برای ورود به دنیای هوش مصنوعی است و مفاهیم را با مثال‌های شهودی آموزش می‌دهد.
 
-- **Language:** JavaScript
-- **Stars:** ⭐ 34
-- **Topics:** `ai`, `chatbot`, `copilot`, `right-to-left`, `rtl`, `vscode`
+- **کاربرد:** آموزش مقدماتی و گام‌به‌گام مفاهیم هوش مصنوعی و یادگیری ماشین به زبان فارسی.
+- **زبان:** Jupyter Notebook
+- **استار:** ⭐ 180
+- **برچسب‌ها:** `ai`, `machine-learning`, `persian`, `course`, `education`
 
-### [persian-address-parser](https://github.com/rezadev8/persian-address-parser)
-No description
+### Roadmaps
 
-- **Language:** TypeScript
-- **Stars:** ⭐ 30
+#### [33Alireza/MobileDevRoadmap](https://github.com/33Alireza/MobileDevRoadmap)
+MobileDevRoadmap مسیر یادگیری توسعه موبایل را از مبانی تا فناوری‌هایی مانند Kotlin، Swift، Flutter و Kotlin Multiplatform پوشش می‌دهد.
 
-### [MobileDevRoadmap](https://github.com/33Alireza/MobileDevRoadmap)
-an open-source project built to help you understand the art and science of mobile Development. Whether you’re starting your journey or expanding your expertise, this roadmap guides you through every step of creating powerful, modern apps for Android and iOS.
+- **کاربرد:** ارائه نقشه راه جامع برای یادگیری توسعه اپلیکیشن‌های Android، iOS و چندسکویی.
+- **زبان:** Not specified
+- **استار:** ⭐ 19
+- **برچسب‌ها:** `mobile-development`, `roadmap`, `android`, `ios`, `flutter`, `kotlin`
 
-- **Language:** Not specified
-- **Stars:** ⭐ 19
-- **Topics:** `android`, `cloud-computing`, `compose-multiplatform`, `cross-platform`, `dart`, `flutter`, `ios`, `jetpack-compose`, `kotlin`, `kotlin-multiplatform`, `mobile`, `mobile-development`, `open-source`, `prtfolio`, `roadmap`, `software-engineering`, `swift`, `swiftui`, `uikit`, `version-control`
+### Tutorials
 
-### [prompts](https://github.com/thatssoheil/prompts)
-Copy-paste AI prompts - no terminal, no install. Also in Farsi (فارسی).
+#### [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+Claude Cookbooks مجموعه‌ای از دستورالعمل‌ها و نمونه‌های قابل استفاده برای توسعه‌دهندگانی است که می‌خواهند قابلیت‌های Claude را در پروژه‌های خود پیاده‌سازی کنند.
 
-- **Language:** Not specified
-- **Stars:** ⭐ 19
+- **کاربرد:** ارائه نمونه‌کدها، نوت‌بوک‌ها و دستورالعمل‌های عملی برای ساخت برنامه‌ها با Claude API.
+- **زبان:** Jupyter Notebook
+- **استار:** ⭐ 52240
+- **برچسب‌ها:** `claude`, `anthropic`, `api`, `tutorials`, `cookbook`, `llm`
 
-### [rss-reader-app](https://github.com/erfan138057/rss-reader-app)
-Modern Qt RSS reader for Windows & Linux — Reader Mode, local-first privacy, OPML, advanced search, bookmarks, and in-app direct video playback.
+## Mobile Development
 
-- **Language:** Python
-- **Stars:** ⭐ 13
-- **Topics:** `desktop-app`, `dns-over-https`, `feed-reader`, `linux`, `open-source`, `podcast-player`, `privacy-tools`, `pyside6`, `python`, `qt`, `rss`, `rss-aggregator`, `rss-reader`, `video-player`, `windows`
+### Android
 
-### [nimaaksoy.com](https://github.com/nimaaksoy/nimaaksoy.com)
-Curated AI and open-source projects, Chrome extensions, and useful web experiments
+#### [code3-dev/CCloud](https://github.com/code3-dev/CCloud)
+CCloud یک برنامه Android نوشته‌شده با Kotlin برای استریم فیلم و سریال است که به‌صورت رایگان و بدون تبلیغات ارائه می‌شود.
 
-- **Language:** TypeScript
-- **Stars:** ⭐ 6
-- **Topics:** `ai-tools`, `chrome-extension`, `curated-resources`, `developer-tools`, `experiments`, `nextjs`, `open-source`, `personal-website`, `typescript`, `web-tools`
+- **کاربرد:** ارائه یک اپلیکیشن اندرویدی رایگان و بدون تبلیغات برای پخش فیلم و سریال.
+- **زبان:** Kotlin
+- **استار:** ⭐ 464
+- **برچسب‌ها:** `android`, `kotlin`, `streaming`, `movies`, `tv-series`
 
+### Cross-platform
+
+#### [taymakz/tehgo](https://github.com/taymakz/tehgo)
+TehGo یک نقشه و مسیریاب متن‌باز و دوزبانه برای متروی تهران و کرج است که روی وب و اندروید اجرا می‌شود و قابلیت استفاده آفلاین نیز دارد.
+
+- **کاربرد:** ارائه نقشه تعاملی و مسیریابی متروی تهران و کرج در وب و اندروید.
+- **زبان:** TypeScript
+- **استار:** ⭐ 66
+- **برچسب‌ها:** `tehran`, `metro`, `route-planner`, `android`, `web`, `offline`
+
+## Persian / Farsi Tools
+
+#### [persianlabs/icons](https://github.com/persianlabs/icons)
+Persian Icons مجموعه‌ای تایپ‌شده از لوگوهای ایرانی است که توسعه‌دهندگان می‌توانند آن‌ها را مستقیماً در پروژه‌های React و Vue استفاده کنند.
+
+- **کاربرد:** ارائه مجموعه متن‌باز و آماده استفاده از لوگوهای بانک‌ها، درگاه‌های پرداخت و برندهای ایرانی برای React و Vue.
+- **زبان:** TypeScript
+- **استار:** ⭐ 176
+- **برچسب‌ها:** `persian`, `iranian-logos`, `icons`, `react`, `vue`
+
+#### [NabiKAZ/vscode-copilot-rtl](https://github.com/NabiKAZ/vscode-copilot-rtl)
+این افزونه جهت متن فارسی و انگلیسی را در Copilot Chat به‌صورت هوشمند مدیریت می‌کند و امکاناتی مانند فونت فارسی، اندازه متن و حفظ حالت چپ‌به‌راست برای کدها دارد.
+
+- **کاربرد:** افزودن پشتیبانی راست‌به‌چپ و نمایش مناسب فارسی به پنل Copilot Chat در VS Code.
+- **زبان:** JavaScript
+- **استار:** ⭐ 34
+- **برچسب‌ها:** `persian`, `rtl`, `vscode`, `copilot`, `farsi`
+
+#### [rezadev8/persian-address-parser](https://github.com/rezadev8/persian-address-parser)
+Persian Address Parser یک کتابخانه TypeScript بدون وابستگی اجرایی است که متن آدرس فارسی را تحلیل کرده و اجزای آن را به داده‌های ساخت‌یافته تبدیل می‌کند.
+
+- **کاربرد:** تبدیل آدرس‌های فارسی آزاد و غیرساخت‌یافته به فیلدهای ساخت‌یافته مانند استان، شهر، خیابان و پلاک.
+- **زبان:** TypeScript
+- **استار:** ⭐ 30
+- **برچسب‌ها:** `persian`, `address-parser`, `typescript`, `data-processing`, `farsi`
+
+## Productivity & Utilities
+
+### RSS/News Readers
+
+#### [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
+Horizon یک رادار خبری شخصی مبتنی بر هوش مصنوعی است که منابع خبری را پردازش کرده و خلاصه‌ها و گزارش‌های روزانه به زبان انگلیسی و چینی تولید می‌کند.
+
+- **کاربرد:** جمع‌آوری و پردازش اخبار با هوش مصنوعی و تولید خودکار گزارش‌های خبری روزانه.
+- **زبان:** Python
+- **استار:** ⭐ 9057
+- **برچسب‌ها:** `news`, `news-aggregator`, `llm`, `ai`, `daily-briefing`, `mcp`
+
+#### [erfan138057/rss-reader-app](https://github.com/erfan138057/rss-reader-app)
+RSS Reader Pro یک برنامه دسکتاپ برای ویندوز و لینوکس است که امکاناتی مانند Reader Mode، جستجوی پیشرفته، OPML، بوکمارک و پخش مستقیم ویدئو را ارائه می‌دهد.
+
+- **کاربرد:** خواندن و مدیریت فیدهای RSS در یک برنامه دسکتاپ با تمرکز بر حریم خصوصی و امکانات پیشرفته مطالعه.
+- **زبان:** Python
+- **استار:** ⭐ 13
+- **برچسب‌ها:** `rss`, `feed-reader`, `desktop`, `privacy`, `python`, `qt`
+
+### Resume/CV Tools
+
+#### [rendercv/rendercv](https://github.com/rendercv/rendercv)
+RenderCV ابزاری برای دانشگاهیان و مهندسان است که اطلاعات رزومه را از YAML دریافت کرده و خروجی حرفه‌ای و قابل انتشار تولید می‌کند.
+
+- **کاربرد:** ساخت خودکار رزومه و CV حرفه‌ای از داده‌های ساخت‌یافته YAML.
+- **زبان:** Python
+- **استار:** ⭐ 17442
+- **برچسب‌ها:** `resume`, `cv`, `resume-builder`, `yaml`, `python`, `typst`
+
+## Web & Frontend
+
+#### [nimaaksoy/nimaaksoy.com](https://github.com/nimaaksoy/nimaaksoy.com)
+این ریپو کد وب‌سایت شخصی nimaaksoy.com و مجموعه‌ای از پروژه‌های متنوع شامل ابزارهای AI، کتابخانه پرامپت، مهارت‌های AI، افزونه‌های مرورگر و آزمایش‌های UI/UX را در خود جای داده است.
+
+- **کاربرد:** میزبانی مجموعه‌ای از پروژه‌ها، ابزارهای وب، افزونه‌های Chrome و آزمایش‌های مرتبط با هوش مصنوعی در یک وب‌سایت شخصی.
+- **زبان:** TypeScript
+- **استار:** ⭐ 6
+- **برچسب‌ها:** `web-tools`, `ai-tools`, `chrome-extension`, `experiments`, `nextjs`
+
+### UI Libraries
+
+#### [persianlabs/ui](https://github.com/persianlabs/ui)
+PersianLabs/ui یک کتابخانه کامپوننت برای رابط‌های فارسی است که با رویکرد RTL-first طراحی شده و کد کامپوننت‌ها را برای استفاده مستقیم در پروژه در اختیار توسعه‌دهنده می‌گذارد.
+
+- **کاربرد:** ارائه کامپوننت‌های رابط کاربری RTL-first و قابل کپی برای ساخت رابط‌های فارسی.
+- **زبان:** TypeScript
+- **استار:** ⭐ 116
+- **برچسب‌ها:** `persian`, `rtl`, `ui-components`, `shadcn`, `nextjs`, `frontend`
