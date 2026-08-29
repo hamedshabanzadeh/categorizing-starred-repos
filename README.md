@@ -21,10 +21,10 @@ An semi-automated, AI-assisted system for organizing GitHub starred repositories
 ##  About / درباره‌ی پروژه
 
 
-As the number of starred repositories grows, finding a specific project or remembering what it does becomes harder over time. This project automatically tracks newly starred repos, uses an AI model (Claude or ChatGPT — whichever you have access to, no API key needed) to classify and describe them, and maintains a permanent, structured catalog that scales to hundreds or thousands of repos.
+As the number of starred repositories grows, finding a specific project or remembering what it does becomes harder over time. This project automatically tracks newly starred repos, uses an AI model (Claude or ChatGPT — whichever you have access to, no API key needed) to classify and describe them and maintains a permanent, structured catalog that scales to hundreds or thousands of repos.
 
 
-با افزایش تعداد ریپوهای استارشده، پیدا کردن پروژه‌ی موردنظر و به‌خاطر سپردن کاربرد هرکدام به‌مرور دشوار می‌شود. این پروژه به‌صورت خودکار ریپوهای تازه استارشده را شناسایی می‌کند، با کمک یک مدل هوش مصنوعی (کلاد یا چت‌جی‌پی‌تی — هرکدام که در دسترس داشته باشید، بدون نیاز به API key) آن‌ها را دسته‌بندی و توصیف می‌کند، و یک کاتالوگ دائمی و ساختاریافته نگه می‌دارد که با رشد تعداد ریپوها همچنان قابل‌مدیریت باقی می‌ماند.
+با افزایش تعداد ریپوهای استارشده، پیدا کردن پروژه‌ی موردنظر و به‌خاطر سپردن کاربرد هرکدام به‌مرور دشوار می‌شود. این پروژه به‌صورت خودکار ریپوهای تازه استارشده را شناسایی می‌کند، با کمک یک مدل هوش مصنوعی (کلاد یا چت‌جی‌پی‌تی — هرکدام که در دسترس داشته باشید، بدون نیاز به API key) آن‌ها را دسته‌بندی و توصیف می‌کند و یک کاتالوگ دائمی و ساختاریافته نگه می‌دارد که با رشد تعداد ریپوها همچنان قابل‌مدیریت باقی می‌ماند.
 
 ---
 
