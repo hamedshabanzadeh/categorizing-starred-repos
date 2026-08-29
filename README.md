@@ -1,8 +1,8 @@
 #  Categorizing Starred Repos
 
-An automated, AI-assisted system for organizing GitHub starred repositories into a categorized, searchable catalog — without requiring an AI API key.
+An semi-automated, AI-assisted system for organizing GitHub starred repositories into a categorized, searchable catalog — without requiring an AI API key.
 
-سیستمی خودکار و مبتنی بر هوش مصنوعی برای دسته‌بندی ریپوهای استارشده‌ی گیتهاب در قالب یک کاتالوگ منظم و قابل‌جست‌وجو — بدون نیاز به API key هوش مصنوعی.
+سیستمی نیمه خودکار و مبتنی بر هوش مصنوعی برای دسته‌بندی ریپوهای استارشده‌ی گیتهاب در قالب یک کاتالوگ منظم و قابل‌جست‌وجو — بدون نیاز به API key هوش مصنوعی.
 
 ---
 
