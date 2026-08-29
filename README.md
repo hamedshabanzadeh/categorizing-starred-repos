@@ -51,7 +51,6 @@ CATALOG.md  +  README.md stats block
 ```
 
 **Why no AI API key is needed?**
-
 The AI analysis step is done manually — you paste `inbox.json` + `categories.yaml` into Claude or ChatGPT's normal chat interface, then upload the response back. All the repetitive, mechanical work (fetching, merging, building) is fully automated via GitHub Actions.
 
 **چرا نیازی به API key هوش مصنوعی نیست؟**
