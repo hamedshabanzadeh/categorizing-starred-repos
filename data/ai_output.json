@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1307353544,
+    "category": "Learning & Educational",
+    "subcategory": "Courses",
+    "purpose": "یک مرجع آموزشی فارسی برای یادگیری Git و GitHub از سطح مقدماتی تا پیشرفته ارائه می‌کند.",
+    "description_fa": "یک کتاب و مرجع جامع فارسی درباره Git و GitHub است که شامل ۲۲ فصل، مثال‌های عملی، نمودارهای تعاملی و قابلیت استفاده آفلاین می‌شود.",
+    "tags": [
+      "git",
+      "github",
+      "farsi",
+      "education",
+      "version-control"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1277477208,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "مستندات و ویکی یک کدبیس را به‌صورت خودکار برای استفاده عامل‌های هوش مصنوعی ایجاد و نگهداری می‌کند.",
+    "description_fa": "OpenWiki یک ابزار خط فرمان است که مستندات کد را با کمک عامل‌های هوش مصنوعی تولید می‌کند و با تغییرات پروژه به‌روز نگه می‌دارد.",
+    "tags": [
+      "cli",
+      "documentation",
+      "wiki",
+      "codebase",
+      "ai-agents"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1136666433,
+    "category": "AI & LLM Tools",
+    "subcategory": "Prompt Engineering",
+    "purpose": "متن تولیدشده توسط هوش مصنوعی را بازنویسی می‌کند تا طبیعی‌تر و شبیه نوشته انسان به نظر برسد.",
+    "description_fa": "Humanizer یک مهارت برای عامل‌های هوش مصنوعی است که الگوهای رایج نوشته‌های ماشینی را شناسایی و متن را بدون تغییر معنای اصلی طبیعی‌تر می‌کند.",
+    "tags": [
+      "ai-writing",
+      "humanizer",
+      "prompt-engineering",
+      "agent-skills",
+      "writing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1127110039,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "برنامه‌ریزی پایدار مبتنی بر فایل را برای عامل‌های کدنویسی و وظایف طولانی‌مدت فراهم می‌کند.",
+    "description_fa": "این پروژه برنامه، یافته‌ها و پیشرفت عامل هوش مصنوعی را در فایل‌های Markdown نگه می‌دارد تا پس از پاک‌شدن کانتکست، فشرده‌سازی یا قطع نشست قابل بازیابی باشند.",
+    "tags": [
+      "coding-agents",
+      "planning",
+      "context-engineering",
+      "agent-skills",
+      "session-recovery"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1246625636,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "یک سیستم توسعه نرم‌افزار مبتنی بر مشخصات، متاپرامپت و مدیریت کانتکست برای عامل‌های کدنویسی فراهم می‌کند.",
+    "description_fa": "GSD Core یک چارچوب سبک برای هدایت ابزارهایی مانند Claude Code، Codex، Cursor و Copilot در توسعه ساختاریافته و مبتنی بر specification است.",
+    "tags": [
+      "coding-agents",
+      "spec-driven-development",
+      "meta-prompting",
+      "context-engineering",
+      "claude-code"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1191410002,
+    "category": "Productivity & Utilities",
+    "subcategory": "RSS/News Readers",
+    "purpose": "دسترسی به فیدهای تلگرام و X و پیام‌رسانی رمزنگاری‌شده را از طریق درخواست‌های DNS فراهم می‌کند.",
+    "description_fa": "thefeed برای شبکه‌هایی طراحی شده که تقریباً فقط DNS در آن‌ها قابل دسترسی است. این ابزار امکان خواندن کانال‌های تلگرام و حساب‌های عمومی X و همچنین تبادل پیام رمزنگاری‌شده را فراهم می‌کند.",
+    "tags": [
+      "dns",
+      "feed-reader",
+      "telegram",
+      "twitter",
+      "messaging",
+      "e2e-encryption"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1223170290,
+    "category": "Design & UI/UX",
+    "subcategory": "",
+    "purpose": "عامل‌های کدنویسی را به یک محیط طراحی برای ساخت رابط کاربری، پروتوتایپ، اسلاید، تصویر و محتوای چندرسانه‌ای تبدیل می‌کند.",
+    "description_fa": "OpenDesign یک اپلیکیشن دسکتاپ local-first برای طراحی با کمک عامل‌های هوش مصنوعی است که می‌تواند پروتوتایپ، لندینگ‌پیج، داشبورد، اسلاید و فایل‌های خروجی واقعی تولید کند.",
+    "tags": [
+      "ai-design",
+      "prototyping",
+      "ui-generator",
+      "design-systems",
+      "coding-agents"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1179264259,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "مجموعه‌ای از ابزارها و گردش‌کارهای تخصصی برای انجام نقش‌های مختلف توسعه محصول توسط Claude Code ارائه می‌کند.",
+    "description_fa": "gstack مجموعه‌ای از ابزارهای مبتنی بر Claude Code است که وظایفی مانند طراحی، مهندسی، مدیریت انتشار، مستندسازی و QA را در قالب یک گردش‌کار یکپارچه پوشش می‌دهد.",
+    "tags": [
+      "claude-code",
+      "coding-agents",
+      "developer-workflow",
+      "qa",
+      "product-development"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1133207146,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "مجموعه‌ای از مهارت‌های قابل نصب برای افزایش توانایی عامل‌های هوش مصنوعی در کارهای روزمره ارائه می‌کند.",
+    "description_fa": "baoyu-skills مجموعه‌ای شامل بیش از ۲۰ مهارت برای ابزارهایی مانند Claude Code و Codex است که گردش‌کارهایی مانند تولید محتوا، ساخت تصویر و انتشار محتوا را به عامل‌ها اضافه می‌کند.",
+    "tags": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "automation",
+      "productivity"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1048065319,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "حافظه پایدار بین نشست‌ها را برای عامل‌های هوش مصنوعی فراهم می‌کند و اطلاعات مرتبط گذشته را به نشست‌های بعدی بازمی‌گرداند.",
+    "description_fa": "claude-mem فعالیت‌های عامل را ذخیره و با هوش مصنوعی فشرده می‌کند و سپس کانتکست مرتبط را در گفتگوها و نشست‌های آینده دوباره در اختیار عامل قرار می‌دهد.",
+    "tags": [
+      "ai-memory",
+      "agents",
+      "long-term-memory",
+      "context",
+      "rag"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1182081931,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Coding Assistants",
+    "purpose": "کدبیس و مستندات را به یک گراف دانش تعاملی برای جستجو، کاوش و پرسش‌وپاسخ تبدیل می‌کند.",
+    "description_fa": "Understand Anything ساختار یک کدبیس یا مجموعه مستندات را تحلیل کرده و آن را به گراف دانش قابل جستجو تبدیل می‌کند تا درک روابط و بخش‌های مختلف پروژه ساده‌تر شود.",
+    "tags": [
+      "codebase-analysis",
+      "knowledge-graph",
+      "code-understanding",
+      "coding-agents",
+      "documentation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1142983825,
+    "category": "AI & LLM Tools",
+    "subcategory": "Prompt Engineering",
+    "purpose": "با مجموعه‌ای از دستورالعمل‌های مبتنی بر توصیه‌های Andrej Karpathy رفتار Claude Code را در برنامه‌نویسی بهبود می‌دهد.",
+    "description_fa": "این پروژه یک فایل CLAUDE.md آماده ارائه می‌کند که برای کاهش فرضیات اشتباه، پیچیدگی غیرضروری و دیگر خطاهای رایج مدل‌های زبانی در کدنویسی طراحی شده است.",
+    "tags": [
+      "claude-code",
+      "prompt-engineering",
+      "coding-guidelines",
+      "llm",
+      "ai-coding"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1079456184,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "مجموعه‌ای از مهارت‌های علمی آماده برای تبدیل عامل‌های هوش مصنوعی به دستیار پژوهش و تحلیل علمی ارائه می‌کند.",
+    "description_fa": "Scientific Agent Skills شامل بیش از صد مهارت و اتصال به پایگاه‌های داده علمی در حوزه‌هایی مانند زیست‌شناسی، شیمی، پزشکی، ژنومیک و کشف دارو است.",
+    "tags": [
+      "ai-scientist",
+      "agent-skills",
+      "scientific-computing",
+      "bioinformatics",
+      "drug-discovery"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1061953414,
+    "category": "AI & LLM Tools",
+    "subcategory": "AI Agents",
+    "purpose": "مجموعه رسمی مهارت‌های Anthropic برای افزودن توانایی‌های تخصصی و تکرارپذیر به Claude ارائه می‌کند.",
+    "description_fa": "این مخزن شامل Agent Skillهایی متشکل از دستورالعمل، اسکریپت و منابع است که Claude می‌تواند هنگام انجام وظایف تخصصی به‌صورت پویا بارگذاری کند.",
+    "tags": [
+      "anthropic",
+      "claude",
+      "agent-skills",
+      "ai-agents",
+      "automation"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 70671876,
+    "category": "Developer Tools",
+    "subcategory": "",
+    "purpose": "فهرستی از سرویس‌های دارای پلن رایگان مناسب توسعه‌دهندگان و پروژه‌های کم‌هزینه ارائه می‌کند.",
+    "description_fa": "Stack on a Budget مجموعه‌ای از سرویس‌های SaaS، PaaS و ابزارهای توسعه با free tier مناسب است که برای آزمایش، پروژه‌های شخصی و استقرار برنامه‌ها قابل استفاده‌اند.",
+    "tags": [
+      "free-tier",
+      "developer-resources",
+      "saas",
+      "paas",
+      "hosting"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  }
+]
