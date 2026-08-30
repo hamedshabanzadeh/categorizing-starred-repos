@@ -23,13 +23,25 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Check AI output exists
+        id: ai_output
+        run: |
+          if [ -f data/ai_output.json ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Merge AI results into catalog
+        if: steps.ai_output.outputs.exists == 'true'
         run: python scripts/merge_catalog.py
 
       - name: Rebuild README from catalog
+        if: steps.ai_output.outputs.exists == 'true'
         run: python scripts/build_readme.py
 
       - name: Commit and push changes
+        if: steps.ai_output.outputs.exists == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
