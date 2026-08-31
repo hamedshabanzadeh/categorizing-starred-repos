@@ -1,3 +1,146 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 540842713,
+      "repo": "chidiwilliams/buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "language": "Python",
+      "topics": [
+        "whisper"
+      ],
+      "stars": 21225,
+      "readme_snippet": "[[简体中文](readme/README.zh_CN.md)] <- 点击查看中文页面。\n\n# Buzz\n\n[Documentation](https://chidiwilliams.github.io/buzz/)\n\nTranscribe and translate audio offline on your personal computer. Powered by\nOpenAI's [Whisper](https://github.com/openai/whisper).\n\n![MIT License](https://img.shields.io/badge/license-MIT-green)\n[![CI](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml/badge.svg)](https://github.com/chidiwilliams/buzz/actions/workflows/ci.yml)\n[![codecov](https://codecov.io/github/chidiwilliams/buzz/branch/main/graph/badge.svg?token=YJSB8S2VEP)](https://codecov.io/github/chidiwilliams/buzz)\n![GitHub release (latest by date)](https://img.shields.io/github/v/release/chidiwilliams/buzz)\n[![Github all releases](https://img.shields.io/github/downloads/chidiwilliams/buzz/total.svg)](https://GitHub.com/chidiwilliams/buzz/releases/)\n\n![Buzz](https://raw.githubusercontent.com/chidiwilliams/buzz/refs/heads/main/buzz/assets/buzz-banner.jpg)\n\n## Features\n- Transcribe audio and video files or "
+    },
+    {
+      "id": 765083837,
+      "repo": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "topics": [
+        "ai4science",
+        "document-analysis",
+        "docx",
+        "extract-data",
+        "layout-analysis",
+        "ocr",
+        "parser",
+        "pdf",
+        "pdf-converter",
+        "pdf-extractor-llm",
+        "pdf-extractor-pretrain",
+        "pdf-extractor-rag",
+        "pdf-parser",
+        "pptx",
+        "python",
+        "xlsx"
+      ],
+      "stars": 78827,
+      "readme_snippet": "<div align=\"center\" xmlns=\"http://www.w3.org/1999/html\">\n<!-- logo -->\n<p align=\"center\">\n  <img src=\"https://gcore.jsdelivr.net/gh/opendatalab/MinerU@master/docs/images/MinerU-logo.png\" width=\"300px\" style=\"vertical-align:middle;\">\n</p>\n\n<!-- icon -->\n\n[![stars](https://img.shields.io/github/stars/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU)\n[![forks](https://img.shields.io/github/forks/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU)\n[![open issues](https://img.shields.io/github/issues-raw/opendatalab/MinerU)](https://github.com/opendatalab/MinerU/issues)\n[![issue resolution](https://img.shields.io/github/issues-closed-raw/opendatalab/MinerU)](https://github.com/opendatalab/MinerU/issues)\n[![PyPI version](https://img.shields.io/pypi/v/mineru)](https://pypi.org/project/mineru/)\n[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mineru)](https://pypi.org/project/mineru/)\n[![Downloads](https://static.pepy.tech/badge/mineru)](https://pepy.t"
+    },
+    {
+      "id": 649170660,
+      "repo": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+      "language": "JavaScript",
+      "topics": [
+        "agent-computer",
+        "agent-harness",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "computer-use",
+        "hermes-agent",
+        "llm",
+        "local-ai",
+        "localai",
+        "multimodal",
+        "no-code",
+        "open-claw",
+        "rag",
+        "self-hosted-ai",
+        "vector-database"
+      ],
+      "stars": 65408,
+      "readme_snippet": "<a name=\"readme-top\"></a>\n\n> [!NOTE]\n> We are also working on [Open Computer](/open-computer) which gives an entire computer environment for AI Agents to use.\n>\n> This will bring AnythingLLM's agent capabilities to a new level and a novel UX paradigm for AI Agent use.\n>\n> ⭐ Star the repo to stay updated!\n\n<p align=\"center\">\n  <a href=\"https://anythingllm.com\"><img src=\"https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true\" alt=\"AnythingLLM logo\"></a>\n</p>\n\n<div align='center'>\n<a href=\"https://trendshift.io/repositories/2415\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/2415\" alt=\"Mintplex-Labs%2Fanything-llm | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</div>\n\n<p align=\"center\">\n    <b>AnythingLLM:</b> The all-in-one AI app you were looking for.<br />\n    Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustrating setup required.\n</p>\n\n<p align=\"center\">\n  <a href=\"ht"
+    },
+    {
+      "id": 658928958,
+      "repo": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "gemma3",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llama3",
+        "llm",
+        "llms",
+        "minimax",
+        "mistral",
+        "ollama",
+        "qwen"
+      ],
+      "stars": 179805,
+      "readme_snippet": "<p align=\"center\">\n  <a href=\"https://ollama.com\">\n    <img src=\"https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7\" alt=\"ollama\" width=\"200\"/>\n  </a>\n</p>\n\n# Ollama\n\nStart building with open models.\n\n## Download\n\n### macOS\n\n```shell\ncurl -fsSL https://ollama.com/install.sh | sh\n```\n\nor [download manually](https://ollama.com/download/Ollama.dmg)\n\n### Windows\n\n```shell\nirm https://ollama.com/install.ps1 | iex\n```\n\nor [download manually](https://ollama.com/download/OllamaSetup.exe)\n\n### Linux\n\n```shell\ncurl -fsSL https://ollama.com/install.sh | sh\n```\n\n[Manual install instructions](https://docs.ollama.com/linux#manual-install)\n\n### Docker\n\nThe official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub.\n\n### Libraries\n\n- [ollama-python](https://github.com/ollama/ollama-python)\n- [ollama-js](https://github.com/ollama/ollama-js)\n\n### Community\n\n- [Discord](https://discord.gg/ollama)\n- [𝕏 (Twitter)](http"
+    },
+    {
+      "id": 589831718,
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "stars": 130779,
+      "readme_snippet": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[![Matrix][matrix-shield]][matrix-url]\n<br>\n[![][github-release-shield]][github-release-link]\n[![][github-release-date-shield]][github-release-link]\n[![][github-downloads-shield]][github-downloads-link]\n[![][github-downloads-latest-shield]][github-downloads-link]\n\n[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white\n[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org\n[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat\n[website-url]: https://www.comfy.org/\n<!-- Workaround to display total user from https://github.com/badges/shields/issues/4500#issuecomment-2060079995 -->\n[discord-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%"
+    },
+    {
+      "id": 679506386,
+      "repo": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "topics": [
+        "chatgpt",
+        "gpt",
+        "llamacpp",
+        "llm",
+        "localai",
+        "open-source",
+        "self-hosted",
+        "tauri"
+      ],
+      "stars": 44273,
+      "readme_snippet": "# Jan - Open-source ChatGPT replacement\n\n<img width=\"2048\" height=\"280\" alt=\"github jan banner\" src=\"https://github.com/user-attachments/assets/f3f87889-c133-433b-b250-236218150d3f\" />\n\n<p align=\"center\">\n  <strong>English</strong> ·\n  <a href=\"README.zh.md\">中文</a> ·\n  <a href=\"README.ja.md\">日本語</a>\n</p>\n\n<p align=\"center\">\n  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->\n  <img alt=\"GitHub commit activity\" src=\"https://img.shields.io/github/commit-activity/m/janhq/jan\"/>\n  <img alt=\"Github Last Commit\" src=\"https://img.shields.io/github/last-commit/janhq/jan\"/>\n  <img alt=\"Github Contributors\" src=\"https://img.shields.io/github/contributors/janhq/jan\"/>\n  <img alt=\"GitHub closed issues\" src=\"https://img.shields.io/github/issues-closed/janhq/jan\"/>\n  <img alt=\"Discord\" src=\"https://img.shields.io/discord/1107178041848909847?label=discord\"/>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://jan.ai/docs/desktop\">Getting Started</a>\n  - <a href=\"https://discord.gg/"
+    },
+    {
+      "id": 286500101,
+      "repo": "danielgatis/rembg",
+      "url": "https://github.com/danielgatis/rembg",
+      "description": "Rembg is a tool to remove images background",
+      "language": "Python",
+      "topics": [
+        "background-removal",
+        "image-processing",
+        "python"
+      ],
+      "stars": 24552,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"logo.png\" alt=\"Rembg Logo\" width=\"600\" />\n</p>\n\n<div align=\"center\">\n  <p align=\"center\">Rembg is a tool to remove image backgrounds. It can be used as a CLI, Python library, HTTP server, or Docker container.</p>\n  <div style=\"display: flex; flex-direction: row; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 8px;\">\n    <a href=\"https://img.shields.io/badge/License-MIT-blue.svg\"><img src=\"https://img.shields.io/badge/License-MIT-blue.svg\" alt=\"License\" /></a>\n    <a href=\"https://huggingface.co/spaces/KenjieDec/RemBG\"><img src=\"https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue\" alt=\"Hugging Face Spaces\" /></a>\n    <a href=\"https://bgremoval.streamlit.app/\"><img src=\"https://img.shields.io/badge/🎈%20Streamlit%20Community-Cloud-blue\" alt=\"Streamlit App\" /></a>\n    <a href=\"https://colab.research.google.com/github/danielgatis/rembg/blob/main/rembg.ipynb\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open i"
+    }
+  ]
 }
