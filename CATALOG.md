@@ -3,15 +3,15 @@
 > این فایل به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود — دستی ویرایشش نکنید.
 > This file is auto-generated from `data/catalog.json` — do not edit manually.
 
-**آخرین به‌روزرسانی / Last updated:** 2026-08-30 09:21:56 UTC
-**تعداد کل ریپوها / Total repos:** 44
+**آخرین به‌روزرسانی / Last updated:** 2026-08-31 10:31:36 UTC
+**تعداد کل ریپوها / Total repos:** 51
 
 ---
 
 ## 📑 فهرست دسته‌ها
 
-- [AI & LLM Tools](#ai--llm-tools) (20 ریپو)
-- [Data & Visualization](#data--visualization) (2 ریپو)
+- [AI & LLM Tools](#ai--llm-tools) (25 ریپو)
+- [Data & Visualization](#data--visualization) (4 ریپو)
 - [Design & UI/UX](#design--uiux) (2 ریپو)
 - [Developer Tools](#developer-tools) (3 ریپو)
 - [Learning & Educational](#learning--educational) (6 ریپو)
@@ -23,6 +23,22 @@
 ---
 
 ## AI & LLM Tools
+
+#### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+ComfyUI یک رابط و موتور ماژولار برای مدل‌های تولید تصویر مانند Stable Diffusion است که گردش‌کارها را به‌صورت گراف و نود نمایش می‌دهد. علاوه بر رابط کاربری، API و بک‌اند قابل‌گسترش نیز ارائه می‌کند.
+
+- **کاربرد:** ساخت و اجرای گردش‌کارهای تولید محتوای مبتنی بر مدل‌های Diffusion از طریق رابط گرافی و نودمحور.
+- **زبان:** Python
+- **استار:** ⭐ 130779
+- **برچسب‌ها:** `generative-ai`, `stable-diffusion`, `image-generation`, `node-workflow`, `comfyui`, `pytorch`
+
+#### [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
+Buzz یک ابزار دسکتاپ برای تبدیل گفتار به متن و ترجمهٔ صوت و ویدیو به‌صورت آفلاین است. پردازش با Whisper انجام می‌شود و داده‌ها می‌توانند روی رایانهٔ کاربر باقی بمانند.
+
+- **کاربرد:** رونویسی و ترجمهٔ آفلاین فایل‌های صوتی و ویدیویی با استفاده از مدل Whisper.
+- **زبان:** Python
+- **استار:** ⭐ 21225
+- **برچسب‌ها:** `whisper`, `speech-to-text`, `transcription`, `translation`, `offline-ai`
 
 ### AI Agents
 
@@ -49,6 +65,14 @@ claude-mem فعالیت‌های عامل را ذخیره و با هوش مصن�
 - **زبان:** JavaScript
 - **استار:** ⭐ 92599
 - **برچسب‌ها:** `ai-memory`, `agents`, `long-term-memory`, `context`, `rag`
+
+#### [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+AnythingLLM یک محیط یکپارچه برای کار با LLMها، اسناد، RAG و AI Agentها است که می‌تواند به‌صورت محلی یا self-hosted اجرا شود. پروژه برای استفادهٔ فردی و چندکاربره طراحی شده و تنظیمات گسترده‌ای دارد.
+
+- **کاربرد:** ارائهٔ یک پلتفرم محلی و قابل‌میزبانی برای چت با اسناد، اجرای مدل‌های زبانی و استفاده از عامل‌های هوش مصنوعی.
+- **زبان:** JavaScript
+- **استار:** ⭐ 65408
+- **برچسب‌ها:** `llm`, `ai-agents`, `rag`, `local-ai`, `self-hosted`, `document-chat`
 
 #### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing Skills مجموعه‌ای از مهارت‌های آماده برای ایجنت‌های هوش مصنوعی است تا در کارهای بازاریابی، بهینه‌سازی نرخ تبدیل، سئو، تحلیل و رشد کسب‌وکار کمک کنند.
@@ -140,6 +164,24 @@ GSD Core یک چارچوب سبک برای هدایت ابزارهایی مان�
 - **استار:** ⭐ 8894
 - **برچسب‌ها:** `coding-agents`, `spec-driven-development`, `meta-prompting`, `context-engineering`, `claude-code`
 
+### LLM Frameworks
+
+#### [ollama/ollama](https://github.com/ollama/ollama)
+Ollama نصب، دریافت و اجرای مدل‌های زبانی متن‌باز را روی رایانهٔ شخصی ساده می‌کند. همچنین کتابخانه‌ها و رابط‌هایی برای استفاده از مدل‌ها در برنامه‌های دیگر ارائه می‌دهد.
+
+- **کاربرد:** اجرای سادهٔ مدل‌های زبانی متن‌باز به‌صورت محلی روی Windows، macOS و Linux.
+- **زبان:** Go
+- **استار:** ⭐ 179805
+- **برچسب‌ها:** `llm`, `local-ai`, `open-models`, `llama`, `qwen`, `deepseek`, `ollama`
+
+#### [janhq/jan](https://github.com/janhq/jan)
+Jan یک اپلیکیشن متن‌باز برای اجرای محلی مدل‌های زبانی و استفاده از آن‌ها در قالب رابط چت است. تمرکز اصلی آن بر تجربه‌ای شبیه ChatGPT با امکان کار آفلاین و self-hosted است.
+
+- **کاربرد:** ارائهٔ یک جایگزین متن‌باز و آفلاین برای ChatGPT جهت اجرای و گفت‌وگو با مدل‌های زبانی روی رایانهٔ شخصی.
+- **زبان:** TypeScript
+- **استار:** ⭐ 44273
+- **برچسب‌ها:** `llm`, `local-ai`, `chatgpt-alternative`, `offline-ai`, `self-hosted`, `llamacpp`
+
 ### Prompt Engineering
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -191,6 +233,24 @@ PromptGPT چارچوبی متن‌باز برای ساخت سریع پرامپت
 - **برچسب‌ها:** `prompts`, `prompt-engineering`, `persian`, `ai`, `copy-paste`
 
 ## Data & Visualization
+
+### Data Processing
+
+#### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+MinerU محتوای اسناد مانند PDF، DOCX، PPTX و XLSX را استخراج و ساختاردهی می‌کند و خروجی مناسب برای LLM، RAG و گردش‌کارهای Agentic می‌سازد. قابلیت‌هایی مانند OCR، تحلیل چیدمان و استخراج داده را نیز پوشش می‌دهد.
+
+- **کاربرد:** تبدیل PDF و اسناد پیچیده به Markdown و JSON ساختاریافته و آمادهٔ استفاده در سامانه‌های هوش مصنوعی.
+- **زبان:** Python
+- **استار:** ⭐ 78827
+- **برچسب‌ها:** `pdf`, `document-parsing`, `ocr`, `markdown`, `json`, `data-extraction`, `rag`
+
+#### [danielgatis/rembg](https://github.com/danielgatis/rembg)
+Rembg ابزاری برای جداسازی سوژه و حذف پس‌زمینهٔ تصویر است. می‌توان از آن به‌صورت CLI، کتابخانهٔ پایتون، سرویس HTTP یا کانتینر Docker استفاده کرد.
+
+- **کاربرد:** حذف خودکار پس‌زمینهٔ تصاویر از طریق خط فرمان، کتابخانهٔ Python، سرور HTTP یا Docker.
+- **زبان:** Python
+- **استار:** ⭐ 24552
+- **برچسب‌ها:** `background-removal`, `image-processing`, `python`, `cli`, `computer-vision`
 
 ### Data Visualization
 
