@@ -1,3 +1,46 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 1306847201,
+      "repo": "NaxonM/hamsoo",
+      "url": "https://github.com/NaxonM/hamsoo",
+      "description": "RTL & Persian typography helper WebExtension for AI chat sites (ChatGPT, Claude, Gemini, DeepSeek, and more).",
+      "language": "JavaScript",
+      "topics": [
+        "bidi",
+        "chatgpt",
+        "chrome-extension",
+        "claude",
+        "firefox-addon",
+        "gemini",
+        "persian",
+        "persian-fonts",
+        "rtl",
+        "typography",
+        "webextension"
+      ],
+      "stars": 50,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/logo.png\" width=\"112\" height=\"112\" alt=\"Hamsoo logo\">\n\n# Hamsoo &nbsp;·&nbsp; هم‌سو\n\n**RTL and Persian typography fix for AI chat interfaces.**\n\nAI chat platforms often struggle with Persian and right-to-left (RTL) text — displaying left-aligned paragraphs, broken punctuation, and cramped default fonts. Hamsoo fixes text direction, font rendering, and line spacing across AI web chats directly in your browser without altering your content.\n\n[![Firefox Add-ons](https://img.shields.io/amo/v/hamsoo-%D9%87%D9%85-%D8%B3%D9%88?label=Firefox%20Add-ons&logo=firefox&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/hamsoo-%D9%87%D9%85-%D8%B3%D9%88/)\n[![Platform](https://img.shields.io/badge/Platform-Chromium%20%7C%20Firefox-brightgreen.svg)](#installation)\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)\n[![Node](https://img.shields.io/badge/Node-%3E%3D18-informational.svg)](hamsoo-addon/package.json)\n[![Depen"
+    },
+    {
+      "id": 1232272213,
+      "repo": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4113,
+      "readme_snippet": "# NoSignups\n## (formerly FckSignups)\n\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm)\n[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/)\n\n> **Open Source Tools. Zero Bullsh*t.**\nA curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.\n\n---\n\n## What is this?\n\nNoSignups is a React + TypeScript project. If you want to run it locally, simply clone the repo, install the depedencies, and run the server.\n\nHere's a command that would do all the previous steps in one go:\n```bash\ngit clone https://github.com/BraveOPotato/FckSignups.git && \\\ncd FckSignups && \\\nnpm install && \\\nnpm run dev\n```\n\n---\n\n## Philosophy\n\n| We believe | We reject |\n|------------|-----------|\n| Tools should work immediately | Forced registration walls |\n| Y"
+    },
+    {
+      "id": 1287563862,
+      "repo": "NVIDIA/Personal-AI-Router",
+      "url": "https://github.com/NVIDIA/Personal-AI-Router",
+      "description": "Router that virtually distributes inference across connected devices in the home.",
+      "language": "Go",
+      "topics": [],
+      "stars": 1058,
+      "readme_snippet": "<!--\nSPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.\nSPDX-License-Identifier: Apache-2.0\n-->\n\n# NVIDIA Personal AI Router (PAIR)\n\n[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)\n[![Security Policy](https://img.shields.io/badge/security-policy-green.svg)](SECURITY.md)\n\nNVIDIA Personal AI Router (PAIR) is a local inference router for a group of\ncompatible computers on the same network. It discovers participating nodes,\nmanages supported inference engines, and presents Ollama-compatible and\nOpenAI-compatible proxy endpoints to applications and agents. Independent\nrequests can be routed to eligible nodes according to engine availability,\nmodel availability, and current workload.\n\nPAIR is useful for concurrent local workloads such as multi-agent applications.\nPrompts and responses are intended to remain on the local network when every\nconfigured client, model source, engine, and node is local.\n\n> PAIR routes e"
+    }
+  ]
 }
