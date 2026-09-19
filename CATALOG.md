@@ -3,21 +3,21 @@
 > این فایل به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود — دستی ویرایشش نکنید.
 > This file is auto-generated from `data/catalog.json` — do not edit manually.
 
-**آخرین به‌روزرسانی / Last updated:** 2026-08-31 10:31:36 UTC
-**تعداد کل ریپوها / Total repos:** 51
+**آخرین به‌روزرسانی / Last updated:** 2026-09-19 10:46:46 UTC
+**تعداد کل ریپوها / Total repos:** 57
 
 ---
 
 ## 📑 فهرست دسته‌ها
 
-- [AI & LLM Tools](#ai--llm-tools) (25 ریپو)
+- [AI & LLM Tools](#ai--llm-tools) (28 ریپو)
 - [Data & Visualization](#data--visualization) (4 ریپو)
 - [Design & UI/UX](#design--uiux) (2 ریپو)
 - [Developer Tools](#developer-tools) (3 ریپو)
 - [Learning & Educational](#learning--educational) (6 ریپو)
 - [Mobile Development](#mobile-development) (2 ریپو)
-- [Persian / Farsi Tools](#persian--farsi-tools) (3 ریپو)
-- [Productivity & Utilities](#productivity--utilities) (4 ریپو)
+- [Persian / Farsi Tools](#persian--farsi-tools) (5 ریپو)
+- [Productivity & Utilities](#productivity--utilities) (5 ریپو)
 - [Web & Frontend](#web--frontend) (2 ریپو)
 
 ---
@@ -39,6 +39,14 @@ Buzz یک ابزار دسکتاپ برای تبدیل گفتار به متن و 
 - **زبان:** Python
 - **استار:** ⭐ 21225
 - **برچسب‌ها:** `whisper`, `speech-to-text`, `transcription`, `translation`, `offline-ai`
+
+#### [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+Awesome Generative AI مجموعه‌ای دسته‌بندی‌شده از ابزارها و پروژه‌های مدرن Generative AI در حوزه‌هایی مانند متن، تصویر، صدا و مدل‌های زبانی بزرگ ارائه می‌کند.
+
+- **کاربرد:** یک فهرست گردآوری‌شده از پروژه‌ها، سرویس‌ها و منابع مرتبط با هوش مصنوعی مولد است.
+- **زبان:** Not specified
+- **استار:** ⭐ 12594
+- **برچسب‌ها:** `generative-ai`, `llm`, `awesome-list`, `ai-tools`, `resources`
 
 ### AI Agents
 
@@ -181,6 +189,22 @@ Jan یک اپلیکیشن متن‌باز برای اجرای محلی مدل‌
 - **زبان:** TypeScript
 - **استار:** ⭐ 44273
 - **برچسب‌ها:** `llm`, `local-ai`, `chatgpt-alternative`, `offline-ai`, `self-hosted`, `llamacpp`
+
+#### [thesysdev/openui](https://github.com/thesysdev/openui)
+OpenUI زیرساختی برای Generative UI فراهم می‌کند تا مدل‌ها و agentها بتوانند رابط‌های کاربری ساختاریافته و تعاملی تولید کنند. پروژه بیشتر در مرز میان ابزارهای LLM و سیستم‌های رابط کاربری قرار می‌گیرد.
+
+- **کاربرد:** یک استاندارد و چارچوب متن‌باز برای ساخت رابط‌های کاربری مولد و پویا توسط مدل‌ها و عامل‌های هوش مصنوعی است.
+- **زبان:** TypeScript
+- **استار:** ⭐ 9261
+- **برچسب‌ها:** `generative-ui`, `llm`, `agents`, `ui`, `framework`, `typescript`
+
+#### [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router)
+NVIDIA Personal AI Router دستگاه‌های سازگار در یک شبکه محلی را کشف می‌کند و درخواست‌های inference را بر اساس مدل، موتور و بار کاری میان آن‌ها مسیریابی می‌کند. همچنین endpointهای سازگار با Ollama و OpenAI ارائه می‌دهد.
+
+- **کاربرد:** یک روتر استنتاج محلی است که درخواست‌های مدل‌های هوش مصنوعی را بین چند دستگاه متصل در شبکه توزیع می‌کند.
+- **زبان:** Go
+- **استار:** ⭐ 1058
+- **برچسب‌ها:** `llm`, `local-ai`, `inference`, `routing`, `ollama`, `openai-compatible`
 
 ### Prompt Engineering
 
@@ -404,6 +428,22 @@ Persian Icons مجموعه‌ای تایپ‌شده از لوگوهای ایرا
 - **استار:** ⭐ 176
 - **برچسب‌ها:** `persian`, `iranian-logos`, `icons`, `react`, `vue`
 
+#### [ali2000hos/persian-writing](https://github.com/ali2000hos/persian-writing)
+persian-writing مجموعه‌ای از دستورالعمل‌ها و منابع برای تولید متن فارسی روان‌تر و اسناد راست‌به‌چپ صحیح در ابزارهای هوش مصنوعی است. روی نیم‌فاصله، حروف فارسی، لحن طبیعی و نمایش درست اسناد تمرکز دارد.
+
+- **کاربرد:** یک مهارت و راهنمای قابل‌استفاده برای هوش مصنوعی است که نگارش حرفه‌ای فارسی و ساخت اسناد RTL را بهبود می‌دهد.
+- **زبان:** Python
+- **استار:** ⭐ 160
+- **برچسب‌ها:** `persian`, `farsi`, `rtl`, `writing`, `ai-skill`, `typography`
+
+#### [NaxonM/hamsoo](https://github.com/NaxonM/hamsoo)
+Hamsoo نمایش متن فارسی و راست‌به‌چپ را در سرویس‌هایی مثل ChatGPT، Claude، Gemini و DeepSeek بهبود می‌دهد و مشکلاتی مثل تراز، علائم نگارشی، فونت و فاصله‌گذاری را برطرف می‌کند.
+
+- **کاربرد:** یک افزونه مرورگر برای اصلاح نمایش RTL، فونت و تایپوگرافی فارسی در رابط‌های چت هوش مصنوعی است.
+- **زبان:** JavaScript
+- **استار:** ⭐ 50
+- **برچسب‌ها:** `persian`, `rtl`, `typography`, `browser-extension`, `ai-chat`
+
 #### [NabiKAZ/vscode-copilot-rtl](https://github.com/NabiKAZ/vscode-copilot-rtl)
 این افزونه جهت متن فارسی و انگلیسی را در Copilot Chat به‌صورت هوشمند مدیریت می‌کند و امکاناتی مانند فونت فارسی، اندازه متن و حفظ حالت چپ‌به‌راست برای کدها دارد.
 
@@ -421,6 +461,14 @@ Persian Address Parser یک کتابخانه TypeScript بدون وابستگی 
 - **برچسب‌ها:** `persian`, `address-parser`, `typescript`, `data-processing`, `farsi`
 
 ## Productivity & Utilities
+
+#### [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)
+NoSignups ابزارهای متن‌باز و قابل‌استفاده مستقیم در مرورگر را گردآوری می‌کند که برای استفاده از آن‌ها نیازی به ساخت حساب، ایمیل یا ثبت‌نام نیست.
+
+- **کاربرد:** یک مجموعه و دایرکتوری از ابزارهای متن‌باز تحت وب است که بدون ثبت‌نام قابل استفاده‌اند.
+- **زبان:** TypeScript
+- **استار:** ⭐ 4113
+- **برچسب‌ها:** `open-source`, `web-tools`, `no-signup`, `utilities`, `directory`
 
 ### RSS/News Readers
 
