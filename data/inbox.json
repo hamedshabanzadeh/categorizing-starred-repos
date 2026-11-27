@@ -52,6 +52,31 @@
       ],
       "stars": 44,
       "readme_snippet": "# Interactive Iran Map\n\n![Interactive Iran Map — Persian home page](docs/screenshot-fa.jpg)\n\n**Live:** https://interactive-iran-map.vercel.app · English: https://interactive-iran-map.vercel.app/?lang=en\n\nAn interactive map of Iran's 31 provinces. Hover a province to see a photo of it inside its border; click to open a card with its capital, population, area, a short description and a three-photo slideshow.\n\nPersian by default (right-to-left, Persian digits); English at `?lang=en`. The flag button in the top corner switches between them.\n\n## Files\n| File | What it holds |\n|---|---|\n| `index.html` | Page structure and the inline map SVG (generated, between `<!-- MAP-*:START/END -->` markers) |\n| `style.css` | All styles: tokens, map, cards, slideshow, language switch, mobile layout |\n| `i18n.js` | Language: picks `en`/`fa` from the URL, UI strings, and the English texts (descriptions, captions, labels) |\n| `script.js` | Data (provinces, photos, colours, population/area) and behaviour (ma"
+    },
+    {
+      "id": 1361787060,
+      "repo": "alirostami01/aima-4e-persian",
+      "url": "https://github.com/alirostami01/aima-4e-persian",
+      "description": "پروژه ترجمه، ویرایش و تدوین فارسی کتاب «هوش مصنوعی: یک رویکرد مدرن»، ویرایش چهارم، اثر استوارت راسل و پیتر نورویگ.",
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-model",
+        "artificial-intelligence",
+        "artificial-intelligence-algorithms",
+        "book",
+        "deep-learning",
+        "educational-resources",
+        "farsi",
+        "learning-resources",
+        "machine-learning",
+        "neural-networks",
+        "persian",
+        "translation"
+      ],
+      "stars": 23,
+      "readme_snippet": "# هوش مصنوعی: یک رویکرد مدرن — ترجمهٔ فارسی\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Language-Persian%20%28فارسی%29-blue?style=for-the-badge\" alt=\"Persian Language\" />\n  <img src=\"https://img.shields.io/badge/Topic-Artificial%20Intelligence-purple?style=for-the-badge\" alt=\"Artificial Intelligence\" />\n  <img src=\"https://img.shields.io/badge/Topic-Machine%20Learning-green?style=for-the-badge\" alt=\"Machine Learning\" />\n  <img src=\"https://img.shields.io/badge/Topic-Deep%20Learning-orange?style=for-the-badge\" alt=\"Deep Learning\" />\n  <img src=\"https://img.shields.io/badge/Topic-NLP-red?style=for-the-badge\" alt=\"Natural Language Processing\" />\n  <img src=\"https://img.shields.io/badge/Topic-Robotics-yellow?style=for-the-badge\" alt=\"Robotics\" />\n</p>\n\n<p align=\"center\">\n  <strong>Artificial Intelligence: A Modern Approach — 4th Edition</strong>\n  <br />\n  <sub>ترجمه و آماده‌سازی فارسی کتاب «هوش مصنوعی: یک رویکرد مدرن» اثر استوارت راسل و پیتر نورویگ</sub>\n</p>\n\n<p align=\"c"
     }
   ]
 }
